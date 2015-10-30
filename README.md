@@ -36,15 +36,10 @@ Save each exercise as a separate source file.
     ID | 3
     ---|----
     driveside|Left
-    ___|____
     make|Toyota
-    ---|----
     model|Yaris
-    ---|----
     colour|grey
-    ---|---
     registration|07-TS-127
-    ---|---
     doors|Driver;Right passenger;Boot
 
 1. Convert the following JSON into valid XML.
