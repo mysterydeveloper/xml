@@ -4,13 +4,6 @@ In this exercise we will look at the syntax and use of eXtensible Markup Languag
 
 ## Exercises
 Save each exercise as a separate source file.
-
-    ```js
-    var car = {
-      ...
-      , year: 2007
-    }
-    ```
     
 1. The following is an example of a car represented in XML. Copy the XML into a file called cars.xml, and two more doors: a left rear door and a right rear door.
 
@@ -41,17 +34,17 @@ Save each exercise as a separate source file.
 1. Create a third car in car.xml, with the following information:
 
     ID | 3
-    -------
+    ---|----
     driveside|Left
-    _______
+    ___|____
     make|Toyota
-    -------
+    ---|----
     model|Yaris
-    -------
+    ---|----
     colour|grey
-    ------
+    ---|---
     registration|07-TS-127
-    ------
+    ---|---
     doors|Driver;Right passenger;Boot
 
 1. Convert the following JSON into valid XML.
