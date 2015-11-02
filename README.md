@@ -68,3 +68,5 @@ Save each exercise as a separate source file.
 
 - [tutorialspoint XML tutorial](http://www.tutorialspoint.com/xml/index.htm)
 
+- [MDN: Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
