@@ -23,7 +23,7 @@ Save each exercise as a separate source file.
 
 1. On paper, draw the tree structure of the XML from step 1.
 
-1. Wrap the XML in cars.xml in a <cars> tag, and add a second car. Change the resistration, make, model and colour of the second car.
+1. Wrap the XML in cars.xml in a <cars> tag, and add a second car. Pick your own values for the resistration, make, model and colour of the second car.
 
 1. Add a dealer element to each of the cars, and set the first one to Cars&Co, and the second one to Steve's Cars. Use entity references to correct the syntax.
 
