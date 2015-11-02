@@ -5,7 +5,7 @@ In this exercise we will look at the syntax and use of eXtensible Markup Languag
 ## Exercises
 Save each exercise as a separate source file.
     
-1. The following is an example of a car represented in XML. Copy the XML into a file called cars.xml, and two more doors: a left rear door and a right rear door.
+1. The following is an example of a car represented in XML. Copy the XML into a file called cars.xml, and add two more doors: a left rear door and a right rear door.
 
     ```xml
     <?xml version="1.0" encoding="UTF-8"?>
