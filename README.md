@@ -38,7 +38,7 @@ Save each exercise as a separate source file.
     driveside|Left
     make|Toyota
     model|Yaris
-    colour|grey
+    colour|Grey
     registration|07-TS-127
     doors|Driver;Right passenger;Boot
 
