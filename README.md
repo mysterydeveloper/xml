@@ -27,7 +27,7 @@ Save each exercise as a separate source file.
 
 1. Add a dealer element to each of the cars, and set the first one to Cars&Co, and the second one to Steve's Cars. Use entity references to correct the syntax.
 
-1. Add an attribute called driveside to each car, setting the first one to "Left" and the second one to "Right".
+1. Add an attribute called driveside to each car, setting the first car's to "Left" and the second car's to "Right".
 
 1. Add an id attribute to each car and set them to the integers 1 and 2 respectively.
 
